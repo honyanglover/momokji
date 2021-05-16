@@ -18,10 +18,12 @@ header {
 }
 
 .header-logo {
+    display: block;
     margin: auto;
 
     font-family: "Inter", sans-serif;
     font-size: 20px;
     font-weight: 900;
+    text-decoration: none;
 }
 
